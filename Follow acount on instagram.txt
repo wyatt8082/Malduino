@@ -1,0 +1,18 @@
+REM enter instagram profile link under second string - Increase delay after enter if wifi is slow
+GUI r 
+DELAY 100
+STRING chrome.exe
+DELAY 100
+ENTER
+DELAY 500
+STRING profile link here Ex. https://www.instagram.com/hello.world/
+DELAY 500
+ENTER
+DELAY 1500
+TAB
+DELAY 250
+TAB
+DELAY 250
+TAB
+DELAY 250
+ENTER
