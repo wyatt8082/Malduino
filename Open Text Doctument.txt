@@ -1,0 +1,7 @@
+REM enter what you want to type in the string line can only be keyboard chartecters
+GUI r
+DELAY 100
+STRING notepad.exe
+ENTER
+DELAY 100 
+STRING 
